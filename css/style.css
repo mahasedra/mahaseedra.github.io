@@ -126,7 +126,7 @@ body {
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 296px;
-	left: 38%;
+    left: calc(50% - 128px);
 	margin: -20px 0 0 -20px;
 	position: absolute;
 	top: 32%;
